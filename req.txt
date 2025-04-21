@@ -1,0 +1,9 @@
+customtkinter
+keyboard
+pyperclip
+langchain
+langchain-groq
+backoff
+httpx
+pyautogui
+pygetwindow
